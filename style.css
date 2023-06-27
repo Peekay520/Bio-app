@@ -1,0 +1,21 @@
+
+
+body {
+   background: grey;
+  color: black;
+  font-family: "poppins", sans-serif;
+}
+
+.profile-image {
+  width: 50%;
+  border-radius: 50%;
+} 
+
+.btn {
+  display: block;
+  color: blue;
+  padding: 30px;
+  background: white;
+  box-shadow: 10px 10px;
+}
+ 
